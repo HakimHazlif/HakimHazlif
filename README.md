@@ -17,7 +17,7 @@ Whether it's a sleek landing page or a full-featured web app, I focus on deliver
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HakimHazlif&layout=compact&theme=react&hide_border=true)
 
-## 🧠 Algorithm Practice
+### 🧠 Algorithm Practice
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Hakim-56?theme=dark&font=Karla&ext=heatmap)
 
