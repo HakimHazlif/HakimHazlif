@@ -25,7 +25,7 @@ From dynamic frontends with **React** and **Tailwind CSS** to robust backends wi
 ---
 
 ### 📌 Projects I'm Proud Of
-- 🎬 **Wanji** – A movie and TV show platform using the TMDB API   
+- 🎬 **Wanji** – A movie and TV show platform using the TMDB API, [click here](https://wanji.vercel.app)
 
 ---
 
